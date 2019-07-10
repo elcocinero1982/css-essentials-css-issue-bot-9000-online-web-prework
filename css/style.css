@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-  
+  color: green;
 }
 
 #tasks .completed {
